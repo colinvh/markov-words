@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+from __future__ import print_function
+
+import markov_words
+
+if __name__ == '__main__':
+    print(markov_words.main())
